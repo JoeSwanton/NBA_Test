@@ -1,0 +1,12 @@
+name: NBA_UPLOAD
+title: NBA_UPLOAD
+username: swpredictions
+account: swpredictions
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14533951
+bundleId: 10122109
+url: https://swpredictions.shinyapps.io/NBA_UPLOAD/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
